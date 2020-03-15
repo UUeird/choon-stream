@@ -1,2 +1,8 @@
 theme: jekyll-theme-midnight
+title: Choon.Stream
+description: Stream the bass music underground.
+url: https://choon.stream/
+author: Sam E. Lawrence
+plugins:
+  - jekyll-seo-tag
 google_analytics: UA-37812018-2
