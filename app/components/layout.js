@@ -4,7 +4,7 @@ import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
 const name = 'Choon.Stream';
-export const siteTitle = 'Stream the bass music underground';
+export const siteTitle = 'Choon.Stream';
 
 export default function Layout({ children, home }) {
   return (
